@@ -18,7 +18,7 @@ i. and iv. works
 
 * Describe the computation tree of $N_1$ for the input string aabba.
 
-Remember picture from messenger!!!
+<img src="./exercise3.jpg" alt="image" width="300" height="auto">
 
 # Exercise 2
 Provide the state diagram of the nondeterministic automaton $N_2 = (Q, Σ, δ, q_0, F )$, where
